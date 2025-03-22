@@ -8,7 +8,7 @@ API testing can be tedious and complex, often requiring extensive scripting know
 
 🔗 Live Project: [Apiflow on Vercel](https://api-flow-3ai6.vercel.app/)
 🔗 Source Code: [GitHub Repository](https://github.com/emee-dev/api-flow)
-🔗 Video Walkthrough: [YouTube]() (Coming Soon)
+🔗 Video Walkthrough: [YouTube](https://youtu.be/FKaSPZuHFyY) (Coming Soon)
 
 ### 💡 Solution
 

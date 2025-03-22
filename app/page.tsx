@@ -321,7 +321,7 @@ function WorkflowDesigner() {
 
           <Panel
             position="top-right"
-            className="bg-white p-4 rounded-md shadow-md"
+            className="bg-white p-4 rounded-md shadow-md border"
           >
             <div className="flex flex-col gap-3">
               <h3 className="font-medium">Add Node</h3>
