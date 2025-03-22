@@ -1,5 +1,6 @@
 "use client";
 
+import WorkflowRunner from "@/components/runner";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {
@@ -28,7 +29,6 @@ import ReactFlow, {
   type NodeTypes,
 } from "reactflow";
 import "reactflow/dist/style.css";
-import WorkflowRunner from "./runner";
 
 // Node types
 const nodeTypes = {
